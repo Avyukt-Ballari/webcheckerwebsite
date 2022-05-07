@@ -1,0 +1,114 @@
+html {
+    scroll-behavior: smooth;
+  }
+  #website {
+    width: 1920px;
+    height: 1080px;
+    background-color: #262626;
+    color: white;
+    font-family: 'Raleway', sans-serif;
+  }
+  .websitetitle {
+    color: white;
+    font-size: 85px;
+    position: absolute;
+    bottom: 40pc;
+    left: 40pc;
+  }
+  .pwebsite {
+    position: absolute;
+    bottom: 37pc;
+    left: 55pc;
+}
+#ellobois {
+    bottom: 34pc;
+    position: absolute;
+    left: 57.5pc;
+}
+#about {
+    width: 1920px;
+    height: 1080px;
+    background-color: #262626;
+    color: white;
+    font-family: 'Raleway', sans-serif;
+  }
+  .AboutHeader {
+    font-size: 105px;
+    position: absolute;
+    left: 8pc;
+    bottom: -25pc;
+  }
+  .aboutcenter {
+    font-size: 22px;
+    position: absolute;
+    bottom: -34pc;
+    left: 8pc;
+  }
+  .aviscustom {
+    width: 400px;
+    position: absolute;
+    bottom: -35pc;
+    left: 76pc;
+    color: black;
+  }
+  .FAQ {
+    position: absolute;
+    left: 76pc;
+    bottom: -24pc;
+    font-size: 49px;
+  }
+  #example {
+    width: 1920px;
+    height: 1080px;
+    background-color: #262626;
+    color: white;
+    font-family: 'Raleway', sans-serif;
+  }
+  #heliokid {
+    position: absolute;
+    bottom: -53pc;
+    left: 53pc;
+}
+.exampletitle {
+  position: absolute;
+  left: 51pc;
+  bottom: -90pc;
+}
+.examplevid {
+  position: absolute;
+    bottom: -115pc;
+    left: 44pc;
+}
+#anotherbutton {
+  position: absolute;
+  bottom: -121pc;
+  left: 54pc;
+}
+#services {
+  width: 1920px;
+  height: 1080px;
+  background-color: #262626;
+  color: white;
+  font-family: 'Raleway', sans-serif;
+}
+.services {
+  font-size: 83px;
+  position: absolute;
+  left: 5pc;
+  bottom: -160pc;
+}
+.servicestext {
+  position: absolute;
+  bottom: -170pc;
+  left: 5pc;
+}
+.googleformsign {
+  position: absolute;
+  left: 55pc;
+  bottom: -195pc;
+}
+#lastbutton {
+  position: absolute;
+  bottom: -194pc;
+  left: 20pc;
+}
